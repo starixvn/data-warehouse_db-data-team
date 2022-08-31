@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeploymentModel>Package</DeploymentModel>
+  <ProductVersion>15.0.2000.167</ProductVersion>
+  <SchemaVersion>9.0.1.0</SchemaVersion>
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmRkbDEwMF8xMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDA4L2VuZ2luZS8xMDAvMTAwIiB4bWxuczpkZGwyMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAiIHhtbG5zOmRkbDIwMF8yMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEwL2VuZ2luZS8yMDAvMjAwIiB4bWxuczpkZGwzMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAiIHhtbG5zOmRkbDMwMF8zMDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDExL2VuZ2luZS8zMDAvMzAwIiB4bWxuczpkZGw0MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAiIHhtbG5zOmRkbDQwMF80MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEyL2VuZ2luZS80MDAvNDAwIiB4bWxuczpkZGw1MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEzL2VuZ2luZS81MDAiIHhtbG5zOmRkbDUwMF81MDA9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDEzL2VuZ2luZS81MDAvNTAwIiB4bWxuczpkd2Q9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vRGF0YVdhcmVob3VzZS9EZXNpZ25lci8xLjAiPg0KICA8RW5hYmxlZD5mYWxzZTwvRW5hYmxlZD4NCiAgPFByb2plY3ROYW1lPjwvUHJvamVjdE5hbWU+DQogIDxBdXhQYXRoPjwvQXV4UGF0aD4NCiAgPExvY2FsUGF0aD48L0xvY2FsUGF0aD4NCiAgPFByb3ZpZGVyPjwvUHJvdmlkZXI+DQo8L1NvdXJjZUNvbnRyb2xJbmZvPg==</State>
+  <Database>
+    <Name>MatchSpecialEvents.database</Name>
+    <FullPath>MatchSpecialEvents.database</FullPath>
+  </Database>
+  <DataSources>
+    <ProjectItem>
+      <Name>DBArcME3rd.BetRadar.ds</Name>
+      <FullPath>DBArcME3rd.BetRadar.ds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBArcME3rd.RB2.ds</Name>
+      <FullPath>DBArcME3rd.RB2.ds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBDW.Bodb_Account.ds</Name>
+      <FullPath>DBDW.Bodb_Account.ds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBDW.Bodb_Staging.ds</Name>
+      <FullPath>DBDW.Bodb_Staging.ds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBDW2.Bodb_Account.ds</Name>
+      <FullPath>DBDW2.Bodb_Account.ds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBME3rd.BetRadar.ds</Name>
+      <FullPath>DBME3rd.BetRadar.ds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBME3rd.RB2.ds</Name>
+      <FullPath>DBME3rd.RB2.ds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBME3rd.RTS.ds</Name>
+      <FullPath>DBME3rd.RTS.ds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DBDW2.Bodb DT.ds</Name>
+      <FullPath>DBDW2.Bodb DT.ds</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DB061.bodb02.ds</Name>
+      <FullPath>DB061.bodb02.ds</FullPath>
+    </ProjectItem>
+  </DataSources>
+  <DataSourceViews />
+  <DeploymentModelSpecificContent>
+    <Manifest>
+      <DTSPackages>
+        <DtsPackage FormatVersion="-1">
+          <Name>LoadMatchLog.dtsx</Name>
+          <FullPath>LoadMatchLog.dtsx</FullPath>
+          <References />
+        </DtsPackage>
+        <DtsPackage FormatVersion="-1">
+          <Name>Match-GenFactCustMinutes.dtsx</Name>
+          <FullPath>Match-GenFactCustMinutes.dtsx</FullPath>
+          <References />
+        </DtsPackage>
+        <DtsPackage FormatVersion="-1">
+          <Name>Match-GenFactMatchSoccerByMinute.dtsx</Name>
+          <FullPath>Match-GenFactMatchSoccerByMinute.dtsx</FullPath>
+          <References />
+        </DtsPackage>
+        <DtsPackage FormatVersion="-1">
+          <Name>Match-Gen-FactMMROddsDetail.dtsx</Name>
+          <FullPath>Match-Gen-FactMMROddsDetail.dtsx</FullPath>
+          <References />
+        </DtsPackage>
+        <DtsPackage FormatVersion="-1">
+          <Name>Match-GenFactSoccerLiveTimer.dtsx</Name>
+          <FullPath>Match-GenFactSoccerLiveTimer.dtsx</FullPath>
+          <References />
+        </DtsPackage>
+        <DtsPackage FormatVersion="-1">
+          <Name>Match-GenOddsByMinutes.dtsx</Name>
+          <FullPath>Match-GenOddsByMinutes.dtsx</FullPath>
+          <References />
+        </DtsPackage>
+        <DtsPackage FormatVersion="-1">
+          <Name>Match-GenSpecialEvents.dtsx</Name>
+          <FullPath>Match-GenSpecialEvents.dtsx</FullPath>
+          <References />
+        </DtsPackage>
+        <DtsPackage FormatVersion="-1">
+          <Name>Match-MainPackage.dtsx</Name>
+          <FullPath>Match-MainPackage.dtsx</FullPath>
+          <References />
+        </DtsPackage>
+      </DTSPackages>
+    </Manifest>
+  </DeploymentModelSpecificContent>
+  <ControlFlowParts />
+  <Miscellaneous />
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <OutputPath>bin</OutputPath>
+        <ConnectionMappings>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Staging</Id>
+            <Name>DBDW.Bodb_Staging</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=DBDW2;Persist Security Info=True;Password=;User ID=;Initial Catalog=bodb_DT</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW2.Bodb_Account</Id>
+            <Name>DBDW2.Bodb_Account</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=DBDW2;Persist Security Info=True;Password=;User ID=;Initial Catalog=bodb_DT</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.RB2</Id>
+            <Name>DBME3rd.RB2</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=10.40.40.40;Persist Security Info=True;Password=;User ID=;Initial Catalog=RBall2</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.BetRadar</Id>
+            <Name>DBME3rd.BetRadar</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=10.40.40.183;Persist Security Info=True;Password=;User ID=;Initial Catalog=Betradar</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.RTS</Id>
+            <Name>DBME3rd.RTS</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=10.40.40.183;Persist Security Info=True;Password=;User ID=;Initial Catalog=RTS</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBArcME3rd.RB2</Id>
+            <Name>DBArcME3rd.RB2</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=10.40.40.222;Persist Security Info=True;Password=;User ID=;Initial Catalog=RBall2_Archive</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBArcME3rd.BetRadar</Id>
+            <Name>DBArcME3rd.BetRadar</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=10.40.40.222;Persist Security Info=True;Password=;User ID=;Initial Catalog=Betradar_Archive</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Account</Id>
+            <Name>DBDW.Bodb_Account</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=DBDW2;Persist Security Info=True;Password=;User ID=;Initial Catalog=bodb_DT</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW2.Bodb DT</Id>
+            <Name>DBDW2.Bodb DT</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=DBDW2;Persist Security Info=True;Password=;User ID=;Initial Catalog=bodb_DT</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DB061.bodb02</Id>
+            <Name>DB061.bodb02</Name>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=DB061;Persist Security Info=True;Password=;User ID=;Initial Catalog=bodb02</Value>
+          </ConfigurationSetting>
+        </ConnectionMappings>
+        <ConnectionProviderMappings />
+        <ConnectionSecurityMappings>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Staging</Id>
+            <Name>DBDW.Bodb_Staging</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW2.Bodb_Account</Id>
+            <Name>DBDW2.Bodb_Account</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.RB2</Id>
+            <Name>DBME3rd.RB2</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.BetRadar</Id>
+            <Name>DBME3rd.BetRadar</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.RTS</Id>
+            <Name>DBME3rd.RTS</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBArcME3rd.RB2</Id>
+            <Name>DBArcME3rd.RB2</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBArcME3rd.BetRadar</Id>
+            <Name>DBArcME3rd.BetRadar</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Account</Id>
+            <Name>DBDW.Bodb_Account</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW2.Bodb DT</Id>
+            <Name>DBDW2.Bodb DT</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DB061.bodb02</Id>
+            <Name>DB061.bodb02</Name>
+            <Value xsi:type="xsd:int">1</Value>
+          </ConfigurationSetting>
+        </ConnectionSecurityMappings>
+        <DatabaseStorageLocations />
+        <TargetServerVersion>SQLServer2019</TargetServerVersion>
+        <AzureMode>false</AzureMode>
+        <LinkedAzureTenantId />
+        <LinkedAzureAccountId />
+        <LinkedAzureSSISIR />
+        <LinkedAzureStorage />
+        <RemoteExecutionFolder />
+        <ParameterConfigurationValues />
+      </Options>
+    </Configuration>
+  </Configurations>
+</Project>

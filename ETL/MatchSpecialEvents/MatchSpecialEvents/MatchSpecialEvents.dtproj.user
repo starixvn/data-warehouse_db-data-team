@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <AssessmentRuleSuppressionSetting />
+        <UseWinAuth>false</UseWinAuth>
+        <WinAuthUserName />
+        <WinAuthDomain />
+        <Run64BitRuntime>false</Run64BitRuntime>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DBArcME3rd.BetRadar</Id>
+            <Name>DBArcME3rd.BetRadar</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAoAAAARABCAEEAcgBjAE0ARQAzAHIAZAAuAEIAZQB0AFIAYQBkAGEAcgAAAANmAADAAAAAEAAAAGnGlA8GjT0DQ1vx1DrUj0oAAAAABIAAAKAAAAAQAAAAUoZ6Y6y1jFCTnE/t5VcEnhAAAABAZX0n31teW2LuecGrJAc5FAAAAPniFVumn6r8X70SsDjdeQsyiB1L</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBArcME3rd.RB2</Id>
+            <Name>DBArcME3rd.RB2</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAeAAAARABCAEEAcgBjAE0ARQAzAHIAZAAuAFIAQgAyAAAAA2YAAMAAAAAQAAAAsH0oMsy698qsq5ZdeTfSNgAAAAAEgAAAoAAAABAAAADyLcYMsYzgZNPteujBjXGBEAAAAMyTOL7+hwbfQl12Y5u7hy0UAAAAC1GMrTwBxDtHw5nohnmvVwJ49eg=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.BetRadar</Id>
+            <Name>DBME3rd.BetRadar</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAiAAAARABCAE0ARQAzAHIAZAAuAEIAZQB0AFIAYQBkAGEAcgAAAANmAADAAAAAEAAAAMRQ9k7fux2BEQlb70euY5YAAAAABIAAAKAAAAAQAAAARETvsv0gkI16HJkQB3HffhAAAAC33PhEIWValFuTmKzfDLwEFAAAAPJPHAyOKRyax/Nn7oDqm8fsJya4</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.RTS</Id>
+            <Name>DBME3rd.RTS</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAYAAAARABCAE0ARQAzAHIAZAAuAFIAVABTAAAAA2YAAMAAAAAQAAAAmxqYVd2z2zyBLyMD+ASc9gAAAAAEgAAAoAAAABAAAADwV+AJrylioVpgVZ1kDPn7EAAAAKviZu6LsDAb1FcSqSvTX9MUAAAAhCqaTndlZl4GFpjXe7ianlGoo7Y=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.RB2</Id>
+            <Name>DBME3rd.RB2</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAYAAAARABCAE0ARQAzAHIAZAAuAFIAQgAyAAAAA2YAAMAAAAAQAAAAoeEQaOZX6Ub1kwoLyby/lgAAAAAEgAAAoAAAABAAAAB/voHMXQ7jhBKwzfaNcDzzEAAAABUMp7TNvEJlJif20uuZUDMUAAAAyY2P9S4EpsKy8PGY/HavYeVaO1w=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Account</Id>
+            <Name>DBDW.Bodb_Account</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAkAAAARABCAEQAVwAuAEIAbwBkAGIAXwBBAGMAYwBvAHUAbgB0AAAAA2YAAMAAAAAQAAAAnUkTqXlXrXkwB2PbGro1JQAAAAAEgAAAoAAAABAAAACrEBWU1cx16FD8/KS7tHRNEAAAAOrNVgwc5qyTlgDVy3Jn2TEUAAAAerO59tZewX0cLNUdgWSeOmD/ZdI=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW2.Bodb_Account</Id>
+            <Name>DBDW2.Bodb_Account</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAmAAAARABCAEQAVwAyAC4AQgBvAGQAYgBfAEEAYwBjAG8AdQBuAHQAAAADZgAAwAAAABAAAAB1jL1TRdVM/FU7dd1H5iizAAAAAASAAACgAAAAEAAAAHsayys2c9Lrbd2tmhNTXLkQAAAAm+0nuiJ7rxPlPY/hdRFtHRQAAAAvCgwihxoKgQX0ZHS30Qx3yr/RTQ==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Staging</Id>
+            <Name>DBDW.Bodb_Staging</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAkAAAARABCAEQAVwAuAEIAbwBkAGIAXwBTAHQAYQBnAGkAbgBnAAAAA2YAAMAAAAAQAAAASw2SUFJ512s7vTjdDgJhQAAAAAAEgAAAoAAAABAAAABMy0MAXgbaRi57DKx1HTerEAAAAP5RuyL84/WclHe0VHfPETkUAAAAZmyfCRjMr0W3Sb+gbH+GbjRAdio=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW2.Bodb DT</Id>
+            <Name>DBDW2.Bodb DT</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAcAAAARABCAEQAVwAyAC4AQgBvAGQAYgAgAEQAVAAAAANmAADAAAAAEAAAAOZMfqHUOv+OJZ/yROySoFQAAAAABIAAAKAAAAAQAAAAyMz12fN6ROWo0jXmCegwQxAAAAAVLpbd6e68hl8F5cdLFLMKFAAAANK6qKq5L/yjkX2Bjwjsg3TdTznL</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DB061.bodb02</Id>
+            <Name>DB061.bodb02</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAaAAAARABCADAANgAxAC4AYgBvAGQAYgAwADIAAAADZgAAwAAAABAAAABKVbwejT7y8LefKHNwXjgcAAAAAASAAACgAAAAEAAAAGG4Uso5zgDJNSBzs8JYHRcQAAAAOC6IzFccEsmyLukcheAFSBQAAAAo/Qs1pVrs7EH0uT0B+wBd4z3S5A==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DBArcME3rd.BetRadar</Id>
+            <Name>DBArcME3rd.BetRadar</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAoAAAARABCAEEAcgBjAE0ARQAzAHIAZAAuAEIAZQB0AFIAYQBkAGEAcgAAAANmAADAAAAAEAAAALgs7d/R5YFY3nTCjgjZzBEAAAAABIAAAKAAAAAQAAAA335wrCgckTlyzCTRpKoE4hgAAADLWkaNjTeWznT5dPVPyRKiI19fa+PF3FYUAAAABuO0OPM9Kj29cT4e2gd2DGbWQv0=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBArcME3rd.RB2</Id>
+            <Name>DBArcME3rd.RB2</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAeAAAARABCAEEAcgBjAE0ARQAzAHIAZAAuAFIAQgAyAAAAA2YAAMAAAAAQAAAAsFcgUoszL72ApJ1sFONgvAAAAAAEgAAAoAAAABAAAAAc9R/afLV4jw1lYmBJjfY/GAAAAEDet+PY6SI42LSOIz1d/gCHqD2G1Y0+HhQAAADOmrNZ78Y2wx+peFJFa3QvDSniQA==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.BetRadar</Id>
+            <Name>DBME3rd.BetRadar</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAiAAAARABCAE0ARQAzAHIAZAAuAEIAZQB0AFIAYQBkAGEAcgAAAANmAADAAAAAEAAAAAxWm3QzPvGGKlRDntU4cCkAAAAABIAAAKAAAAAQAAAA49C4h5smDJrX6pIBiSoC5xgAAAA0RXZsSfJhhg3qf+cw/FiQ1sghZIBpOnoUAAAAycRJI67+MCmCss2Q+QVJHX2clIA=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.RTS</Id>
+            <Name>DBME3rd.RTS</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAYAAAARABCAE0ARQAzAHIAZAAuAFIAVABTAAAAA2YAAMAAAAAQAAAAqnHBlVrzReM1HJhnIkp0OgAAAAAEgAAAoAAAABAAAACqwj5NiTjljqKDR/DIy4Q+GAAAAK/+L3H8FGtRZPWlO81yIJXs3+hK46dNWRQAAABjPwua9bILh8NEOXPA6sBVKa1S5Q==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBME3rd.RB2</Id>
+            <Name>DBME3rd.RB2</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAYAAAARABCAE0ARQAzAHIAZAAuAFIAQgAyAAAAA2YAAMAAAAAQAAAANjmJbv7DGI8bKxxFmrH1kgAAAAAEgAAAoAAAABAAAAB913YFf2eaHw/xj3wAIKa9GAAAAPMO43po2AfBBymGieSO1h9Bto8k09898RQAAABHn4xyhKz33piInyOpDPzWQmGLiQ==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Account</Id>
+            <Name>DBDW.Bodb_Account</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAkAAAARABCAEQAVwAuAEIAbwBkAGIAXwBBAGMAYwBvAHUAbgB0AAAAA2YAAMAAAAAQAAAAKvBOnApMp6y8wNdkCc+DZwAAAAAEgAAAoAAAABAAAAAccog21E6JkOrHB1zUFYE2GAAAAHsELvak6RdqDAPERNicLo4YnuifMcT2xBQAAACIrTK26GpHwkMgCRjsrzG6B5r6dw==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW2.Bodb_Account</Id>
+            <Name>DBDW2.Bodb_Account</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAmAAAARABCAEQAVwAyAC4AQgBvAGQAYgBfAEEAYwBjAG8AdQBuAHQAAAADZgAAwAAAABAAAABv0FrNmoRBaa4tO+cjgZtlAAAAAASAAACgAAAAEAAAAMGEr0mtIPWkpXRopb70qHgYAAAAPsOc8CduXD4EFAzYcz2GiaVhsZbGDwAbFAAAAL/kX0rYYG3wbx4XY1RRUSvApONw</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Staging</Id>
+            <Name>DBDW.Bodb_Staging</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAkAAAARABCAEQAVwAuAEIAbwBkAGIAXwBTAHQAYQBnAGkAbgBnAAAAA2YAAMAAAAAQAAAA01W3HZ2DfggPXYuDujmo4wAAAAAEgAAAoAAAABAAAADAyfla0D0GghI0W2VGMqBeGAAAAIJQbsP8BOhDb7XXh3Bao/iWKG+AL19UZBQAAAAs9DrUrIWsUIzq/7764Dgm3rexoA==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW2.Bodb DT</Id>
+            <Name>DBDW2.Bodb DT</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAcAAAARABCAEQAVwAyAC4AQgBvAGQAYgAgAEQAVAAAAANmAADAAAAAEAAAAGwI8Y2FWkmYRsepVcvNTU4AAAAABIAAAKAAAAAQAAAAe/ZptoNpgr4FAJbP+HpA/xgAAAC/Zwud8YdhCnRM/qy9wLBmxkvIjFkJib8UAAAAyDlO024r1/tFAb61E4Jkb+8LlvU=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DB061.bodb02</Id>
+            <Name>DB061.bodb02</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAaAAAARABCADAANgAxAC4AYgBvAGQAYgAwADIAAAADZgAAwAAAABAAAACfm2KvLG4C5MldBM8xaIf9AAAAAASAAACgAAAAEAAAAJryCoXdeSt55tRmcY6mVHAYAAAAbL7NsCD1nV+PMENIZcs//vygC4b4lL6mFAAAAFqLelAFXl/aLdG3rIUsGHcpOOou</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+        <ParameterConfigurationSensitiveValues />
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>

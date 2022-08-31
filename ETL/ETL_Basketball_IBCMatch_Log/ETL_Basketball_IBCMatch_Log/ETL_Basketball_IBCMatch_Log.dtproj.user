@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <AssessmentRuleSuppressionSetting />
+        <UseWinAuth>false</UseWinAuth>
+        <WinAuthUserName />
+        <WinAuthDomain />
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Bodb Adhoc</Id>
+            <Name>Bodb Adhoc</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAWAAAAQgBvAGQAYgAgAEEAZABoAG8AYwAAAANmAADAAAAAEAAAABv/xR/4PZkLbEjVRyWLnp4AAAAABIAAAKAAAAAQAAAAayIN0HE30oTMEgO0fB4mPRAAAACXcw+iOXG83u/1akyok4TVFAAAAHCvh/rsRglznU0LfVXgGZufFhoM</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Staging</Id>
+            <Name>DBDW.Bodb_Staging</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4/4ySEC+kEa9e/ssqFiy7AAAAAAkAAAARABCAEQAVwAuAEIAbwBkAGIAXwBTAHQAYQBnAGkAbgBnAAAAA2YAAMAAAAAQAAAAWJIltCUFgSe2sf0ux+z3ugAAAAAEgAAAoAAAABAAAACqASCgsaAojqoOLX8H9pOUEAAAABq2lBS+pQZQjLGGRIixzZwUAAAAJX2VhdeO9P8dhUBuWN8UccMLXGU=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Bodb Adhoc</Id>
+            <Name>Bodb Adhoc</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJUNBK3plIE6Gzlym5WCYowAAAAAWAAAAQgBvAGQAYgAgAEEAZABoAG8AYwAAAANmAADAAAAAEAAAAE2DO22pHe3/yer64FObN9EAAAAABIAAAKAAAAAQAAAAyIHo0L/SI2JciS0G+5keERgAAACqhFXo39bp5viR48eDzcp6o9k+qMRWvcMUAAAAKegWU1H48LeI7mJr5hzRyyfoGzM=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Staging</Id>
+            <Name>DBDW.Bodb_Staging</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4/4ySEC+kEa9e/ssqFiy7AAAAAAkAAAARABCAEQAVwAuAEIAbwBkAGIAXwBTAHQAYQBnAGkAbgBnAAAAA2YAAMAAAAAQAAAAGA5tlexCi7HKepcmXRSOFQAAAAAEgAAAoAAAABAAAAA1mrWbVX/f/CqurjS6kT+nGAAAAALj1qaNxluwljQGmxpHxNL0fZx2iCWsUBQAAAC/zp8VY84QXeJQcA57qCNh9zIRNQ==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+        <ParameterConfigurationSensitiveValues />
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>

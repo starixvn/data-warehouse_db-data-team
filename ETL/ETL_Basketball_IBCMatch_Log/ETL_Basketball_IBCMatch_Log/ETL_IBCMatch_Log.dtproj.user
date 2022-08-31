@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Bodb Adhoc</Id>
+            <Name>Bodb Adhoc</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6b2GycYFOECba+ywLO9TMAAAAAAWAAAAQgBvAGQAYgAgAEEAZABoAG8AYwAAABBmAAAAAQAAIAAAACUrByO9jCqRuU0lnwdw8JWibXP7DgpUDsWdxj/c2QSqAAAAAA6AAAAAAgAAIAAAAFpadgEDwqkLVdVLVPyvHFfSggoiINIh+qGwtBypa0t6EAAAAOFJkwwEEV/nbTLoUedYzvNAAAAAcY+VHlLvc4VnHrFwACuniiigVhc2SJRMZ6Vowg/a48VjP5S/yChrsw1m75zwT5OFnEIaDgNcyhg2nIQEHhHRxA==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Staging</Id>
+            <Name>DBDW.Bodb_Staging</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4/4ySEC+kEa9e/ssqFiy7AAAAAAkAAAARABCAEQAVwAuAEIAbwBkAGIAXwBTAHQAYQBnAGkAbgBnAAAAA2YAAMAAAAAQAAAAWJIltCUFgSe2sf0ux+z3ugAAAAAEgAAAoAAAABAAAACqASCgsaAojqoOLX8H9pOUEAAAABq2lBS+pQZQjLGGRIixzZwUAAAAJX2VhdeO9P8dhUBuWN8UccMLXGU=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Bodb Adhoc</Id>
+            <Name>Bodb Adhoc</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6b2GycYFOECba+ywLO9TMAAAAAAWAAAAQgBvAGQAYgAgAEEAZABoAG8AYwAAABBmAAAAAQAAIAAAAHxs2AXKFzNurUjOw7a9KM12g2kpO+FUCBc8Hab+WGX4AAAAAA6AAAAAAgAAIAAAAGDzWLC82mi0HupP6mJ36EXDS3a5haz1dIaChdQsgBkpEAAAAF0J7XdF/mjzaqW1Uap5k4hAAAAAfeZZDEU2rghBHSH5PPwMbCLen1b4ckcKmk8WtXk3pNnZMRDQjwhrnNNlja8oR+yMDEb6G/WP8pqrjQ4+wjgFIA==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DBDW.Bodb_Staging</Id>
+            <Name>DBDW.Bodb_Staging</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4/4ySEC+kEa9e/ssqFiy7AAAAAAkAAAARABCAEQAVwAuAEIAbwBkAGIAXwBTAHQAYQBnAGkAbgBnAAAAA2YAAMAAAAAQAAAAGA5tlexCi7HKepcmXRSOFQAAAAAEgAAAoAAAABAAAAA1mrWbVX/f/CqurjS6kT+nGAAAAALj1qaNxluwljQGmxpHxNL0fZx2iCWsUBQAAAC/zp8VY84QXeJQcA57qCNh9zIRNQ==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
