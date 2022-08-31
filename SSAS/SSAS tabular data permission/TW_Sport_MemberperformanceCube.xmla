@@ -1,0 +1,25 @@
+{
+  "createOrReplace": {
+    "object": {
+      "database": "MemberPerformanceCube",
+      "role": "TW_Sport"
+    },
+    "role": {
+      "name": "TW_Sport",
+      "modelPermission": "read",
+      "members": [
+        {
+          "memberName": "POWERBI\\tony.yu",
+          "memberId": "S-1-5-21-2328548537-4246628583-2154545041-1302"
+        }
+      ],
+      "tablePermissions": [
+        {
+          "name": "DimSportBettypeMatrix",
+          "filterExpression": " DimSportBettypeMatrix[ProductID] = 1 || DimSportBettypeMatrix[ProductID] = 25 || DimSportBettypeMatrix[ProductID] = 37 "
+        }
+      ]
+    }
+  }
+}
+

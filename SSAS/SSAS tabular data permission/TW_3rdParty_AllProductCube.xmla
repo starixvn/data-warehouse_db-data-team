@@ -1,0 +1,32 @@
+{
+  "create": {
+    "parentObject": {
+      "database": "AllProductsCube"
+    },
+    "role": {
+      "name": "TW_3rdParty",
+      "modelPermission": "read",
+      "members": [
+        {
+          "memberName": "POWERBI\\tony.yu",
+          "memberId": "S-1-5-21-2328548537-4246628583-2154545041-1302"
+        },
+        {
+          "memberName": "POWERBI\\john.huang",
+          "memberId": "S-1-5-21-2328548537-4246628583-2154545041-1304"
+        }
+      ],
+      "tablePermissions": [
+        {
+          "name": "DimSportBettypeMatrix",
+          "filterExpression": [
+            " DimSportBettypeMatrix[ProductID] <>1 && DimSportBettypeMatrix[ProductID] <> 25 && DimSportBettypeMatrix[ProductID] <> 37 ",
+            "&& DimSportBettypeMatrix[ProductID] <> 3 && DimSportBettypeMatrix[ProductID] <> 6 && DimSportBettypeMatrix[ProductID] <> 38 && DimSportBettypeMatrix[ProductID] <> 43 ",
+            "&& DimSportBettypeMatrix[ProductID] <> 2 && DimSportBettypeMatrix[ProductID] <> 4 && DimSportBettypeMatrix[ProductID] <> 33 && DimSportBettypeMatrix[ProductID] <> 26"
+          ]
+        }
+      ]
+    }
+  }
+}
+

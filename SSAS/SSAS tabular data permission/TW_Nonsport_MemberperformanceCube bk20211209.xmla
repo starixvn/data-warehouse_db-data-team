@@ -1,0 +1,27 @@
+{
+  "create": {
+    "parentObject": {
+      "database": "MemberPerformanceCube"
+    },
+    "role": {
+      "name": "TW_NonSport",
+      "modelPermission": "read",
+      "members": [
+        {
+          "memberName": "POWERBI\\johnny.yang",
+          "memberId": "S-1-5-21-2328548537-4246628583-2154545041-1303"
+        }
+      ],
+      "tablePermissions": [
+        {
+          "name": "DimSportBettypeMatrix",
+          "filterExpression": [
+            " DimSportBettypeMatrix[ProductID] = 3 || DimSportBettypeMatrix[ProductID] = 6 || AND (DimSportBettypeMatrix[ProductID] = 1,DimSportBettypeMatrix[SportType]=43)",
+            "|| DimSportBettypeMatrix[ProductID] = 38 || DimSportBettypeMatrix[ProductID] = 43"
+          ]
+        }
+      ]
+    }
+  }
+}
+

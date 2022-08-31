@@ -1,0 +1,36 @@
+{
+  "createOrReplace": {
+    "object": {
+      "database": "MemberPerformanceCube",
+      "role": "TW_NonSport"
+    },
+    "role": {
+      "name": "TW_NonSport",
+      "modelPermission": "read",
+      "members": [
+        {
+          "memberName": "POWERBI\\johnny.yang",
+          "memberId": "S-1-5-21-2328548537-4246628583-2154545041-1303"
+        },
+        {
+          "memberName": "POWERBI\\test",
+          "memberId": "S-1-5-21-2328548537-4246628583-2154545041-1245"
+        },
+        {
+          "memberName": "POWERBI\\john.huang",
+          "memberId": "S-1-5-21-2328548537-4246628583-2154545041-1304"
+        }
+      ],
+      "tablePermissions": [
+        {
+          "name": "DimSportBettypeMatrix",
+          "filterExpression": [
+            " DimSportBettypeMatrix[ProductID] = 3 || DimSportBettypeMatrix[ProductID] = 6 ",
+            "|| DimSportBettypeMatrix[ProductID] = 38 || DimSportBettypeMatrix[ProductID] = 43"
+          ]
+        }
+      ]
+    }
+  }
+}
+

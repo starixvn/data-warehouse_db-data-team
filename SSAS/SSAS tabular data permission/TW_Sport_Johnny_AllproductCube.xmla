@@ -1,0 +1,29 @@
+{
+  "createOrReplace": {
+    "object": {
+      "database": "AllProductsCube",
+      "role": "TW_Sport_Johnny"
+    },
+    "role": {
+      "name": "TW_Sport_Johnny",
+      "modelPermission": "read",
+      "members": [
+        {
+          "memberName": "POWERBI\\johnny.yang",
+          "memberId": "S-1-5-21-2328548537-4246628583-2154545041-1303"
+        }
+      ],
+      "tablePermissions": [
+        {
+          "name": "DimSportBettypeMatrix",
+          "filterExpression": [
+            " AND(DimSportBettypeMatrix[ProductID] = 1,DimSportBettypeMatrix[SportType]=1) || AND(DimSportBettypeMatrix[ProductID] = 1,DimSportBettypeMatrix[SportType]=2) || AND(DimSportBettypeMatrix[ProductID] = 1,DimSportBettypeMatrix[SportType]=43)",
+            "",
+            " "
+          ]
+        }
+      ]
+    }
+  }
+}
+
